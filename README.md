@@ -10,7 +10,7 @@ League of Legends Professional Bettor
 * 🖥️  See my portfolio at [Part 1 Of My Project - The Next One is System for Bets.](http://www.patreon.com/pordentrodaaposta)
 * ✉️  You can contact me at [kasdoveira@protonmail.com](mailto:kasdoveira@protonmail.com)
 * 🧠  I'm learning Python
-* ⚡  I'm learning from CS50 and BlueEDTECH
+* ⚡  I'm learning from CS50
 
 <a href="https://www.twitter.com/lukasrsilveira" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/lukasrsilveira?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
