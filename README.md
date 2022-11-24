@@ -11,8 +11,8 @@ League of Legends Professional Bettor
 * 🧠  I'm learning Python
 * ⚡  I'm learning from CS50
 
-<a href="https://www.twitter.com/RozadoLukas" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/lukasrsilveira?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://twitter.com/RozadoLukas" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/RozadoLukas?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
