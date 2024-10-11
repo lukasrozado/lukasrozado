@@ -7,7 +7,7 @@ Investor, Data-Analist
 League of Legends Professional Bettor
 
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [Part 1 Of My Project - The Next One is System for Bets.](https://twitter.com/ApostaPorDentro/status/1591779603475206147)
+* 🖥️  See my portfolio at 
 * 🧠  I'm learning Python
 * ⚡  I'm learning from CS50
 
