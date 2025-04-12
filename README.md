@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://lukasrozado.github.io/personal-page-portfolio/](https://lukasrozado.github.io/personal-page-portfolio/)
+- 👨‍💻 All of my projects are available at [https://lukasrozado.github.io/](https://lukasrozado.github.io/)
 
 - 💬 Ask me about **Data Analysis**
 
