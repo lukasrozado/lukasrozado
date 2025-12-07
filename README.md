@@ -1,21 +1,55 @@
-<h1 align="center">Hi 👋, I'm Lukas Rozado</h1>
-<h3 align="center">A Data Scientist and Data Analyst</h3>
+<!--
+RAW MARKDOWN — optimized README based on your Transfero responsibilities + your personal ML project (4+ years).
+Paste directly into README.md.
+-->
 
-- 🌱 I’m currently learning **Data Science**
-
-- 👨‍💻 All of my projects are available at [https://lukasrozado.github.io/](https://lukasrozado.github.io/)
-
-- 💬 Ask me about **Data Analysis**
-
-- 📫 How to reach me **lukasrozado@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lukasrozado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lukasrozado" height="30" width="40" /></a>
-<a href="https://instagram.com/lukasrozado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lukasrozado" height="30" width="40" /></a>
+<h1 align="center">👋 Hi, I'm <strong>Lukas Rozado</strong></h1>
+<p align="center">
+  <strong>Data Analyst</strong> — Data Engineering for financial services: resilient ETL pipelines, multi-chain ingestion, and analytical modeling.  
+  Currently @ Transfero — building end-to-end data solutions (ingestion → transformation → DW → reporting).
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img alt="stack" src="https://img.shields.io/badge/stack-Python%20%7C%20SQL%20%7C%20Azure%20Functions%20%7C%20PostgreSQL-blue" />
+  <img alt="contact" src="https://img.shields.io/badge/contact-lukasrozado%40gmail.com-blue" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasrozado&show_icons=true&locale=en&layout=compact" alt="lukasrozado" /></p>
+---
+
+## 🚀 TL;DR
+I design and operate **resilient ETL/ELT pipelines** for financial data, focused on **high availability, idempotency, and performance**.  
+I integrate multiple sources (including **blockchains**) using Azure Functions and transform Data Lake JSON into **Data Warehouse models** optimized for financial reporting and reconciliation.
+
+---
+
+## 🔎 What I do at Transfero
+### Resilient ETL architecture
+- Stream-based ingestion using **Python generators**, enabling low-memory processing of unlimited data streams.  
+- **Idempotent** loading with UPSERT logic and composite keys.  
+- **Retry**, error isolation, and checkpoint integrity achieving **>99.9% pipeline reliability**.  
+- Parameterized ingestion framework used across multiple projects/clients.
+
+### Multi-chain ingestion & serverless architecture
+- Data ingestion from **10+ blockchain networks** through Azure Functions.  
+- **Checkpointing** with Azure Blob Storage for safe continuation.  
+- Secure authentication via **Managed Identity** and Azure Key Vault (auditability + compliance).
+
+### Data Lake → Data Warehouse modeling
+- Normalization of semi-structured JSON into optimized **PostgreSQL DW** tables.  
+- High-volume ingestion using `COPY`, handling **millions of rows efficiently**.  
+- Semantic layer creation for financial dashboards, reconciliation processes, and analytics.
+
+### Ownership & impact
+- Increased reliability and consistency of Transfero’s ingestion ecosystem.  
+- Improved FinOps/compliance with structured logging, checkpoints, and secure identity.  
+- Delivering clean, trusted datasets for business teams and real-time reporting.
+
+---
+
+## 🛠 Core Tech Stack
+**Languages & Libraries:** Python, Pandas, Psycopg2  
+**Data & Storage:** PostgreSQL, Azure Blob Storage  
+**Cloud:** Azure Functions, Key Vault, Managed Identity  
+**DevOps:** Git, GitHub Actions CI, structured logging, monitoring basics
+
+---
