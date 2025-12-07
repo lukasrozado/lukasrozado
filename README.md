@@ -47,7 +47,7 @@ I integrate multiple sources (including **blockchains**) using Azure Functions a
 ---
 
 ## 🛠 Core Tech Stack
-**Languages & Libraries:** Python, Pandas, Psycopg2  
+**Languages & Libraries:** Python,SQL, Pandas, Psycopg2  
 **Data & Storage:** PostgreSQL, Azure Blob Storage  
 **Cloud:** Azure Functions, Key Vault, Managed Identity  
 **DevOps:** Git, GitHub Actions CI, structured logging, monitoring basics
