@@ -19,7 +19,7 @@ I don't just move data from A to B; I design systems that guarantee absolute int
 
 ---
 
-##Core Architectural Domains
+## Core Architectural Domains
 Over the past years, I have architected and deployed complex data systems across multiple domains:
 
 ### Institutional Financial Pipelines
