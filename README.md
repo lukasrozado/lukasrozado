@@ -1,71 +1,59 @@
 <h1 align="center">👋 Hi, I'm <strong>Lukas Rozado</strong></h1>
 <p align="center">
-  <strong>Data Analyst & Data Engineering Enthusiast</strong> — I build reliable data pipelines, analytical systems, and long-term predictive modeling projects.
+  <strong>Data Engineer | Cloud Architecture & ML Pipelines</strong> — I build institutional-grade data pipelines, canonical ledgers, and resilient analytical systems.
 </p>
 
 <p align="center">
   <img alt="stack" src="https://img.shields.io/badge/Python-3.10+-blue" />
   <img alt="stack" src="https://img.shields.io/badge/SQL-PostgreSQL-lightgrey" />
   <img alt="stack" src="https://img.shields.io/badge/Cloud-Azure-blue" />
-  <img alt="stack" src="https://img.shields.io/badge/ETL-Streaming%20%7C%20Batch-green" />
+  <img alt="stack" src="https://img.shields.io/badge/Architecture-Event%20Driven-green" />
 </p>
 
 ---
 
-## 🚀 About Me
-I work with **data engineering and analytics**, designing pipelines, building structured datasets, and creating analytical models used for decision-making.  
-For the last **4+ years**, I’ve also been developing a **personal predictive modeling system**, where I handle everything end-to-end: data ingestion, feature engineering, modeling, evaluation, automation, and monitoring.
+## About Me
+I specialize in **Data Engineering and Systems Architecture**, transforming raw, unstructured, and fragmented data into highly reliable, canonical Data Warehouses. My focus is on **performance-first engineering**: solving aggressive API rate limits, ensuring I/O database optimization, and building secure, cloud-native ingestion pipelines for the financial sector.
 
-I enjoy solving real problems with pragmatic, clean, and reliable data solutions.
-
----
-
-## 🔬 What I Work On (Personally)
-### 📈 Long-term Predictive Modeling System (4+ years)
-A large personal project focused on applying statistical modeling, simulation, and ML techniques.  
-Core components include:
-- Automated data ingestion & cleaning  
-- Feature engineering pipelines  
-- Statistical models + ML ensembles  
-- Bootstrap confidence, backtesting & metric monitoring  
-- Continuous experiment cycles  
-- Full reproducibility + versioning  
-
-> This project reflects my technical depth, persistence, and ability to maintain a complex system long-term.
+I don't just move data from A to B; I design systems that guarantee absolute integrity, idempotency, and strict data governance.
 
 ---
 
-## 💼 Professional Experience (Transfero)
-I currently work as a **Data Analyst**, contributing to the company’s data infrastructure and analytics stack.
+##Core Architectural Domains
+Over the past years, I have architected and deployed complex data systems across multiple domains:
 
-Key areas:
-- **Resilient ETL pipelines** with Python (stream processing + idempotency patterns)  
-- Data ingestion from multiple APIs and sources  
-- **Serverless pipelines** with Azure Functions  
-- Checkpointing, retries, and performance improvements  
-- Data Lake → Data Warehouse transformations (PostgreSQL)  
-- Structured logging and secure workflow (Key Vault, Managed Identity)
+### Institutional Financial Pipelines
+- **Enterprise Crypto Data Lakes:** Architected async ingestion engines handling multiple institutional exchange accounts, implementing custom HTTP header rate limiters to prevent API bans.
+- **Multi-Chain Ledger Integrators:** Replaced third-party indexers with raw RPC extraction across diverse blockchains (EVM/Solana), featuring a "Pacemaker" Auto-Reconciliation engine to audit database states against live nodes.
+- **Custody & BaaS Integration:** Developed secure data sinks using Azure Active Directory and programmatic token integration to centralize clearinghouse and institutional custody data securely.
 
-My role strengthens my foundation in **data reliability, pipeline design, and cloud-based ingestion**.
+### E-sports Quant Trading & ML Engine (5+ years)
+A massive end-to-end personal project focused on predictive modeling and quantitative analysis.
+- **Automated Data Engineering:** Daily web scraping, feature engineering (42+ variables), and real-time data pipelines.
+- **Machine Learning:** Statistical models, ensemble ML (Scikit-Learn), and continuous experiment cycles.
+- **Production:** Full deployment lifecycle including backtesting, signal logging, and metric monitoring.
+
+> *This project reflects my technical depth, persistence, and ability to architect, deploy, and maintain a complex algorithmic system long-term.*
+
+---
+
+## Technical Stack & Engineering Practices
+
+### **Languages & Frameworks**
+- **Python:** Advanced Asyncio, ThreadPoolExecutor, Pandas, SQLAlchemy, Polars.
+- **SQL (PostgreSQL):** High-performance bulk loading (`COPY` commands, `io.StringIO`), temporary tables, indexing, and query optimization.
+- **Cloud (Microsoft Azure):** Azure Functions, Blob Storage (Checkpointing), Azure Key Vault (Dynamic Auth), Managed Identities.
+- **ML & Analytics:** Scikit-learn, Metabase, PowerBI.
+
+### **Engineering Standards**
+- **Idempotency & Resilience:** Upsert patterns, robust retry/backoff strategies.
+- **API Security:** Zero-hardcoded credentials, secure token injection, header monitoring.
+- **Observability:** Custom structured logging and pipeline state management.
+- **Clean Architecture:** Modular project structures and OOP design.
 
 ---
 
-## 🛠 Technical Skills
-### **Languages & Tools**
-- Python (Pandas, NumPy, Polars, SQLAlchemy)  
-- SQL (PostgreSQL, query optimization, indexing)  
-- Azure Functions, Blob Storage, Key Vault  
-- Git, GitHub Actions  
-- Docker  
-- Jupyter, VSCode  
-- Basic ML (scikit-learn, statsmodels, PyTorch for experimentation)
-
-### **Engineering Practices**
-- Idempotent ETL design  
-- Retry & checkpoint strategies  
-- Data quality checks  
-- CI pipelines  
-- Modular project structures  
-- Reproducible experiments
-
----
+<p align="center">
+  <i>"I enjoy solving real problems with pragmatic, clean, and reliable data solutions."</i><br>
+  🔗 <strong>Portfolio:</strong> <a href="https://lukasrozado.github.io/">lukasrozado.github.io</a> | 💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lukasrozado">in/lukasrozado</a>
+</p>
