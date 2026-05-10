@@ -26,6 +26,7 @@ Over the past years, I have architected and deployed complex data systems across
 - **Enterprise Crypto Data Lakes:** Architected async ingestion engines handling multiple institutional exchange accounts, implementing custom HTTP header rate limiters to prevent API bans.
 - **Multi-Chain Ledger Integrators:** Replaced third-party indexers with raw RPC extraction across diverse blockchains (EVM/Solana), featuring a "Pacemaker" Auto-Reconciliation engine to audit database states against live nodes.
 - **Custody & BaaS Integration:** Developed secure data sinks using Azure Active Directory and programmatic token integration to centralize clearinghouse and institutional custody data securely.
+- **Institutional Digital Asset Custody Integrator:** Distributed integration architecture for managing institutional custody of crypto assets. I implemented an abstraction layer to orchestrate global master APIs, ensuring the segregated capture of transactional data by operating region. The system focuses on high security in secrets traffic and schema standardization to comply with international FinOps audits.
 
 ### E-sports Quant Trading & ML Engine (5+ years)
 A massive end-to-end personal project focused on predictive modeling and quantitative analysis.
